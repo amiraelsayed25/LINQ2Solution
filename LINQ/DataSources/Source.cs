@@ -1,4 +1,5 @@
-﻿using LINQ.Models;
+﻿
+using LINQ.Models;
 
 namespace LINQ.DataSources
 {

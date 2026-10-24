@@ -1,4 +1,5 @@
-﻿namespace LINQ.Helpers
+﻿
+namespace LINQ.Helpers
 {
 	public class StringCaseInsensitiveComparer : IComparer<string>
 	{

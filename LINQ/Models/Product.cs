@@ -1,4 +1,5 @@
-﻿namespace LINQ.Models
+﻿
+namespace LINQ.Models
 {
 	public class Product
 	{
